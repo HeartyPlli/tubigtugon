@@ -1,0 +1,111 @@
+{
+  "path": "C:\\Users\\Admin\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\Phase5_UserFlow_Completed.docx",
+  "paragraphs": [
+    {
+      "index": 0,
+      "style": "Normal",
+      "text": "USER FLOW"
+    },
+    {
+      "index": 1,
+      "style": "Normal",
+      "text": "Primary resident flow for checking water information or reporting a pump-related problem."
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "rows": [
+        {
+          "index": 0,
+          "cells": [
+            "Resident opens TubigTugon",
+            "Resident opens TubigTugon"
+          ]
+        },
+        {
+          "index": 1,
+          "cells": [
+            "↓",
+            "↓"
+          ]
+        },
+        {
+          "index": 2,
+          "cells": [
+            "Home screen shows the water schedule and latest service notice",
+            "Home screen shows the water schedule and latest service notice"
+          ]
+        },
+        {
+          "index": 3,
+          "cells": [
+            "↓",
+            "↓"
+          ]
+        },
+        {
+          "index": 4,
+          "cells": [
+            "Select an action",
+            "Select an action"
+          ]
+        },
+        {
+          "index": 5,
+          "cells": [
+            "↓",
+            "↓"
+          ]
+        },
+        {
+          "index": 6,
+          "cells": [
+            "Check schedule or service notice",
+            "Report a water-supply problem"
+          ]
+        },
+        {
+          "index": 7,
+          "cells": [
+            "↓",
+            "↓"
+          ]
+        },
+        {
+          "index": 8,
+          "cells": [
+            "View the posted date and time and any confirmed restoration time",
+            "Enter the location, problem, contact method, and optional name"
+          ]
+        },
+        {
+          "index": 9,
+          "cells": [
+            "Use the information to plan water collection",
+            "Review and submit the report"
+          ]
+        },
+        {
+          "index": 10,
+          "cells": [
+            "",
+            "Receive submission confirmation"
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "index": 0,
+      "width": 7772400,
+      "height": 10058400,
+      "top_margin": 914400,
+      "bottom_margin": 914400,
+      "left_margin": 914400,
+      "right_margin": 914400
+    }
+  ],
+  "inline_shapes": 0
+}

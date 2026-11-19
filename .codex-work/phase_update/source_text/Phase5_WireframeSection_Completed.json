@@ -1,0 +1,84 @@
+{
+  "path": "C:\\Users\\Admin\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\Phase5_WireframeSection_Completed.docx",
+  "paragraphs": [],
+  "tables": [
+    {
+      "index": 0,
+      "rows": [
+        {
+          "index": 0,
+          "cells": [
+            "Screen 1 Home and Water Status",
+            "Screen 2 Service Notice Details"
+          ]
+        },
+        {
+          "index": 1,
+          "cells": [
+            "Purpose: Show the schedule and latest service notice immediately.",
+            "Purpose: Explain an interruption or schedule change clearly."
+          ]
+        },
+        {
+          "index": 2,
+          "cells": [
+            "Features: 7:00 AM-8:30 AM schedule; latest notice; posted date/time; Report a Problem button.",
+            "Features: Service status; posted date/time; confirmed return time only when available; back navigation."
+          ]
+        },
+        {
+          "index": 3,
+          "cells": [
+            "Screenshot: / ",
+            "Screenshot: / "
+          ]
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "rows": [
+        {
+          "index": 0,
+          "cells": [
+            "Screen 3 Report a Problem",
+            "Screen 4 Report Confirmation"
+          ]
+        },
+        {
+          "index": 1,
+          "cells": [
+            "Purpose: Let residents send a short water-supply or pump-problem report.",
+            "Purpose: Confirm that the resident's concern was submitted."
+          ]
+        },
+        {
+          "index": 2,
+          "cells": [
+            "Features: Location; problem description; contact method; optional name; submit button.",
+            "Features: Confirmation message; submitted location and problem summary; return to Home."
+          ]
+        },
+        {
+          "index": 3,
+          "cells": [
+            "Screenshot: / ",
+            "Screenshot: / "
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "index": 0,
+      "width": 7772400,
+      "height": 10058400,
+      "top_margin": 914400,
+      "bottom_margin": 914400,
+      "left_margin": 914400,
+      "right_margin": 914400
+    }
+  ],
+  "inline_shapes": 0
+}
